@@ -1,6 +1,6 @@
 # ifmoradas
 
-Desenvolvimento de um website com **Django (Python)** com o intuito de oferecer opções de moradias para estudantes do IFSC. Através do sistema é possível criar e procurar imóveis que estão disponíveis e entrar em contato caso tenham interesse. O sistema possui **autenticação**, **CRUD de imóveis** e foi desenvolvido como principal trabalho da disciplina de **Tópicos Especiais em Programação** para o curso de **Sistemas de Informação** do IFSC Caçador. Visite o projeto em [https://ifmoradas.anthonycruz.com.br](https://ifmoradas.anthonycruz.com.br)
+Desenvolvimento de um website com **Django (Python)** com o intuito de oferecer opções de moradias para estudantes do IFSC. Através do sistema é possível criar e procurar imóveis que estão disponíveis e entrar em contato caso tenham interesse. O sistema possui **autenticação**, **CRUD de imóveis** e foi desenvolvido como principal trabalho da disciplina de **Tópicos Especiais em Programação** para o curso de **Sistemas de Informação** do IFSC Caçador.
 
 ![ifmoradas](https://i.imgur.com/ueunRCw.png)
 
